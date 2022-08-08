@@ -8,19 +8,19 @@
 
 4- perform Bag Of Words (BOW) transformation and apply it to different 3 classification models:
 
-   1-Support vector machine(SVM) classification Model
+       1-Support vector machine(SVM) classification Model
 			
-   2-Decision Tree Classification Model
+       2-Decision Tree Classification Model
 			
-   3- KNN classification Model
+       3- KNN classification Model
 
 5- perform TF-IDF transformation and apply it to different 3 classification models:
 
-   1-Support vector machine(SVM) classification Model
+       1-Support vector machine(SVM) classification Model
+       
+       2-Decision Tree Classification Model
 
-   2-Decision Tree Classification Model
-   
-			3- KNN classification Model
+       3- KNN classification Model
 
 6- choose the champion model.
 
